@@ -1,0 +1,244 @@
+{
+   "products": [
+      {
+         "id":"1",
+         "productName":"ekmek",
+         "price":"7.5",
+         "category":"bakery",
+         "desc":"Fırından taze ekmek",
+         "picture": "/assets/bakery/ekmek.jpg"
+      },
+      {
+         "id":"2",
+         "productName":"pide",
+         "price":"14",
+         "category":"bakery",
+         "desc":"Fırından taze pide",
+         "picture":"/assets/bakery/pide.png"
+      },
+      {
+         "id":"3",
+         "productName":"simit",
+         "price":"7.5",
+         "category":"bakery",
+         "desc":"Fırından taze ekmek",
+         "picture":"/assets/bakery/simit.jpg"
+      },
+      
+      
+      {
+         "id":"4",
+         "productName":"fanta",
+         "price":"30",
+         "category":"drinks",
+         "desc":"Serinteleten içecek fanta",
+         "picture":"/assets/drinks/fanta.jpg"
+      },
+      {
+         "id":"5",
+         "productName":"icetea",
+         "price":"25",
+         "category":"drinks",
+         "desc":"Lipton'dan icetea",
+         "picture":"/assets/drinks/icetea.jpg"
+      },
+      {
+         "id":"6",
+         "productName":"kola",
+         "price":"40",
+         "category":"drinks",
+         "desc":"Serinteleten içecek cola",
+         "picture":"/assets/drinks/kola.jpg"
+      },
+      {
+         "id":"7",
+         "productName":"sprite",
+         "price":"35",
+         "category":"drinks",
+         "desc":"Serinteleten içecek sprite",
+         "picture":"/assets/drinks/sprite.jpg"
+      },
+      {
+         "id":"8",
+         "productName":"su",
+         "price":"8",
+         "category":"drinks",
+         "desc":"Serinteleten içecek su",
+         "picture":"/assets/drinks/su.jpg"
+      },
+      
+      
+      {
+         "id": "9",
+         "productName": "burito",
+         "price": "90",
+         "category": "foods",
+         "desc": "Doyurucu lezzet burito",
+         "picture":"/assets/foods/burito.jpg"
+      },
+      {
+         "id": "10",
+         "productName": "hamburger",
+         "price": "170",
+         "category": "foods",
+         "desc": "Doyurucu lezzet hamburger",
+         "picture":"/assets/foods/hamburger.jpg"
+      },
+      {
+         "id": "11",
+         "productName": "kebap",
+         "price": "340",
+         "category": "foods",
+         "desc": "Adana efsanesi kebap",
+         "picture":"/assets/foods/kebap.jpg"
+      },
+      {
+         "id": "12",
+         "productName": "spagetti",
+         "price": "40",
+         "category": "foods",
+         "desc": "Ucuz lezzetli spagetti",
+         "picture":"/assets/foods/spagetti.jpg"
+      },
+      {
+         "id": "13",
+         "productName": "mamlama",
+         "price": "200",
+         "category": "foods",
+         "desc": "Fikrim yok",
+         "picture":"/assets/foods/mamlama.jpg"
+      },
+      {
+         "id": "14",
+         "productName": "salata",
+         "price": "100",
+         "category": "foods",
+         "desc": "Daha sağlıklı bir yaşam için",
+         "picture":"/assets/foods/salata.jpg"
+      },
+      
+      
+      {
+         "id": "15",
+         "productName": "Algida Klasik",
+         "price": "40",
+         "category": "icecream",
+         "desc": "Algida klasiği",
+         "picture":"/assets/icecreams/algidaklasik.jpg"
+      },
+      {
+         "id": "16",
+         "productName": "Magum Badem",
+         "price": "80",
+         "category": "icecream",
+         "desc": "Magnum lezzeti şimdi daha fazla badem ile",
+         "picture":"/assets/icecreams/magnumbadem.jpg"
+      },
+      {
+         "id": "17",
+         "productName": "Magnum Beyaz",
+         "price": "80",
+         "category": "icecream",
+         "desc": "Magnum lezzeti şimdi daha beyaz",
+         "picture":"/assets/icecreams/magnumbeyaz.jpg"
+      },
+      {
+         "id": "18",
+         "productName": "Magnum Klasik",
+         "price": "80",
+         "category": "icecream",
+         "desc": "Eskimeyen lezzet magnum klasik",
+         "picture":"/assets/icecreams/magnumklasik.jpg"
+      },
+      
+      
+      {
+         "id": "19",
+         "productName": "Antep Fıstığı",
+         "price": "150",
+         "category": "junkfoods",
+         "desc": "Antep'ten klasik lezzet",
+         "picture":"/assets/junkfoods/antepfistigi.jpg"
+      },
+      {
+         "id": "20",
+         "productName": "Badem",
+         "price": "150",
+         "category": "junkfoods",
+         "desc": "Efsane lezzet badem",
+         "picture":"/assets/junkfoods/badem.jpg"
+      },
+      {
+         "id": "21",
+         "productName": "cekirdek",
+         "price": "45",
+         "category": "junkfoods",
+         "desc": "Ucuz lezzet",
+         "picture":"/assets/junkfoods/cekirdek.jpg"
+      },
+      {
+         "id": "22",
+         "productName": "cipso",
+         "price": "50",
+         "category": "junkfoods",
+         "desc": "Cipsodan cips",
+         "picture":"/assets/junkfoods/cipso.jpg"
+      },
+      {
+         "id": "23",
+         "productName": "doritos",
+         "price": "50",
+         "category": "junkfoods",
+         "desc": "Doritos cips",
+         "picture":"/assets/junkfoods/doritos.jpg"
+      },
+      {
+         "id": "24",
+         "productName": "findik",
+         "price": "150",
+         "category": "junkfoods",
+         "desc": "Efsane lezzet fındık",
+         "picture":"/assets/junkfoods/findik.jpg"
+      },
+      {
+         "id": "25",
+         "productName": "gofret",
+         "price": "25",
+         "category": "junkfoods",
+         "desc": "Tatlı gofret",
+         "picture":"/assets/junkfoods/gofret.jpg"
+      },
+      {
+         "id": "26",
+         "productName": "patos",
+         "price": "50",
+         "category": "junkfoods",
+         "desc": "Patos cips",
+         "picture":"/assets/junkfoods/patos.jpg"
+      },
+      {
+         "id": "27",
+         "productName": "Ruffles",
+         "price": "50",
+         "category": "junkfoods",
+         "desc": "Ruffles cips",
+         "picture":"/assets/junkfoods/ruffles.jpg"
+      },
+      {
+         "id": "28",
+         "productName": "Ülker Çikolata",
+         "price": "20",
+         "category": "junkfoods",
+         "desc": "Ülker'den çikolata",
+         "picture":"/assets/junkfoods/ulkerkirmizi.jpg"
+      },
+      {
+         "id": "29",
+         "productName": "Ülker Yeşil",
+         "price": "20",
+         "category": "junkfoods",
+         "desc": "Ülker'den çikolata",
+         "picture":"/assets/junkfoods/ulkeryesil.jpg"
+      }
+   ]
+}
