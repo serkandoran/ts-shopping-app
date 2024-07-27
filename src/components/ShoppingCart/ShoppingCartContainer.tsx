@@ -13,7 +13,7 @@ const ShoppingCartContainer = () => {
 
    return <div className="w-full h-full flex items-center justify-center">
       {
-         shoppingCartStore.items.length ? 
+         !shoppingCartStore.items.length ? 
             <ShoppingCartEmpty /> : 
             <ShoppingCartItems
                items = {shoppingCartStore.items}
