@@ -23,3 +23,6 @@ export type TShoppingCartState = {
    items: TData[]
    totalCount: number
 }
+export type TDataWithCount = TData & {
+   count: number
+}

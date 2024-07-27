@@ -45,8 +45,8 @@ const Products = ({queryString} : props) => {
             searchedElements.map((el:TData,idx:number)=>{
                return <li className="flex flex-col w-48 min-h-44 items-center border border-zinc-50" key={idx}>
                   <div className="cursor-pointer flex justify-end w-full">
-                     <div className="w-10 h-10 flex items-center justify-center border border-400 rounded-lg shadow-md">
-                        <svg onClick={() => addItemHandler(el)} className="h-6 w-6 flex-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 144L48 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l144 0 0 144c0 17.7 14.3 32 32 32s32-14.3 32-32l0-144 144 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-144 0 0-144z" /></svg>
+                     <div onClick={() => addItemHandler(el)} className="w-10 h-10 flex items-center justify-center border border-400 rounded-lg shadow-md">
+                        <svg className="h-6 w-6 flex-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M256 80c0-17.7-14.3-32-32-32s-32 14.3-32 32l0 144L48 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l144 0 0 144c0 17.7 14.3 32 32 32s32-14.3 32-32l0-144 144 0c17.7 0 32-14.3 32-32s-14.3-32-32-32l-144 0 0-144z" /></svg>
                      </div>
                   </div>
                   <Image className="flex-1 py-4" width={140} height={100} src={`${el.picture}`} alt={`${el.productName}`} priority={true} />
